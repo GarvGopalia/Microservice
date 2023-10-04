@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "@Value(\"fnAFPX0uwRAAUDTndgsFGjZmb1Jqn4B2Ik4hOGcY\")",
+    "type": "java.lang.String",
+    "description": "A description for '@Value(\"fnAFPX0uwRAAUDTndgsFGjZmb1Jqn4B2Ik4hOGcY\")'"
+  },
+  {
+    "name": ".withSecret(serverKey)",
+    "type": "java.lang.String",
+    "description": "A description for '.withSecret(serverKey)'"
+  },
+  {
+    "name": "@Value(\"fnAFPX0uwRAAUDTndgsFGjZmb1Jqn4B2Ik4hOGcY\")",
+    "type": "java.lang.String",
+    "description": "A description for '@Value(\"fnAFPX0uwRAAUDTndgsFGjZmb1Jqn4B2Ik4hOGcY\")'"
+  },
+  {
+    "name": "@Bean",
+    "type": "java.lang.String",
+    "description": "A description for '@Bean'"
+  },
+  {
+    "name": "@Value(\"fnAFPX0uwRAAUDTndgsFGjZmb1Jqn4B2Ik4hOGcY\")",
+    "type": "java.lang.String",
+    "description": "A description for '@Value(\"fnAFPX0uwRAAUDTndgsFGjZmb1Jqn4B2Ik4hOGcY\")'"
+  },
+  {
+    "name": "FaunaClient",
+    "type": "java.lang.String",
+    "description": "A description for 'FaunaClient'"
+  }
+]}
